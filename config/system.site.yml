@@ -1,0 +1,14 @@
+uuid: 70f4a1ff-8bef-4c2d-a113-8b81521cb344
+name: mooky-site
+mail: alonmor2@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
